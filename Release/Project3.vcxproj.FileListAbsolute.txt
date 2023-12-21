@@ -1,0 +1,5 @@
+E:\Tugas\ALGORITMA DAN PEMROGRAMAN II (SELASA_3)\C++ GUI\code\coba3\Project3\Release\Project3.vcxproj.AssemblyReference.cache
+E:\Tugas\ALGORITMA DAN PEMROGRAMAN II (SELASA_3)\C++ GUI\code\coba3\Project3\Release\Project3.Home.resources
+E:\Tugas\ALGORITMA DAN PEMROGRAMAN II (SELASA_3)\C++ GUI\code\coba3\Project3\Release\Project3.Kalkulator.resources
+E:\Tugas\ALGORITMA DAN PEMROGRAMAN II (SELASA_3)\C++ GUI\code\coba3\Project3\Release\Project3.vcxproj.GenerateResource.cache
+E:\Tugas\ALGORITMA DAN PEMROGRAMAN II (SELASA_3)\C++ GUI\code\coba3\Project3\Release\Project3.exe
